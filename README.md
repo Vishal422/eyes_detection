@@ -1,1 +1,1 @@
-# eyes_detection
+# eye_detection
